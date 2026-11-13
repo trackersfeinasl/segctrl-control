@@ -1,7 +1,3 @@
-# Configuracio del Worker existent SEG-CTRL (Cloudflare)
 name = "segctrl-control"
 main = "worker.js"
-compatibility_date = "2026-11-01"
-workers_dev = true
-# Conserva les variables introduides al Dashboard de Cloudflare
-keep_vars = true
+compatibility_date = "2026-11-13"
